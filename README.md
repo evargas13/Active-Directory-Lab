@@ -17,4 +17,3 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ## Steps
 ![image](https://github.com/evargas13/Active-Directory-Lab/assets/146609081/039de04f-6710-4024-831f-7f8a522e2ee9)
-*Ref 1: Network Diagram* 
